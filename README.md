@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm very new to GitHub - this is my very first foray into GitHub. Please go easy on me 😄.
-I love computers 💻. I love cookies 🍪. I love Yeshua ✝️.
-I'm currently learning with docs.github.com 📚.
+I'm very new to GitHub - this is my very first foray into GitHub. Please go easy on me 😄. 
+- I love computers 💻. I love cookies 🍪. I love Yeshua ✝️.
+- I'm currently learning with docs.github.com 📚.
+
+And so.. my GitHub journey begins. 1605 GMT+1. 19 July 2024 AD.
